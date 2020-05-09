@@ -1,6 +1,6 @@
 # 区块链+碳排放权交易
-
 ## 思路
++ 论文的研究方法是？
 + 参考 [基于区块链的碳排放交易仿真研究](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202001&filename=1019928102.nh&v=MDA5NTVrVzd6TlZGMjZGN3E2RnRETXJaRWJQSVI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUjdxZll1WnBGeXY=)
 * 基本的--没有区块链，[碳指标是怎么交易的](http://www.tanpaifang.com/qukuailian/2018/032361646_2.html)
 * 简单来说就是![这样](http://www.tanpaifang.com/uploads/allimg/180323/1-1P323234033311.jpg)
@@ -9,6 +9,8 @@
 > * MRV数据透明化很难实现，数据本来就不允许公开，谈什么提高透明度？  [MRV是啥？](http://www.tanpaifang.com/tanguwen/2019/1022/65969.html)
 > * 配额分配规则很难求同存异
 > * 交易打包入区块，防篡改
+> * 碳排放权使用与交易记账方式
+> * 碳排放监督机制
 * 1.0--分布式账本，解决虚拟物品复制的问题，利用UTXO防双花
 * 2.0--智能合约，解决履约问题，配额托管智能合约
 
