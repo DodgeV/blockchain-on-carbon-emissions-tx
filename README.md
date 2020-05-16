@@ -1,9 +1,11 @@
 # 区块链+碳排放权交易
+* [中国碳交易平台](http://www.tanjiaoyi.org.cn/)
 ## 思路
 + 论文的研究方法是？
 + 参考 [基于区块链的碳排放交易仿真研究](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202001&filename=1019928102.nh&v=MDA5NTVrVzd6TlZGMjZGN3E2RnRETXJaRWJQSVI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUjdxZll1WnBGeXY=)
 * 基本的--没有区块链，[碳指标是怎么交易的](http://www.tanpaifang.com/qukuailian/2018/032361646_2.html)
 * 简单来说就是![这样](http://www.tanpaifang.com/uploads/allimg/180323/1-1P323234033311.jpg)
+* [全国碳排放权交易系统建设成果专家评审会](http://www.tanjiaoyi.com/article-31114-1.html)
 * 两种思路
 > * 区块链用于碳定价
 > * 区块链用于构建信息平台
