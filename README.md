@@ -8,6 +8,7 @@
 * 基本的--没有区块链，[碳指标是怎么交易的](http://www.tanpaifang.com/qukuailian/2018/032361646_2.html)
 * 简单来说就是![这样](http://www.tanpaifang.com/uploads/allimg/180323/1-1P323234033311.jpg)
 * [全国碳排放权交易系统建设成果专家评审会](http://www.tanjiaoyi.com/article-31114-1.html)
+* [没有区块链的中国碳资产管理产业链--存在第三方](http://www.tanpaifang.com/tanguwen/2020/0216/68250.html)
 * 两种思路
 > * 区块链用于碳定价
 > * 区块链用于构建信息平台
