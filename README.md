@@ -1,5 +1,6 @@
 # 区块链+碳排放权交易
 * [中国碳交易平台](http://www.tanjiaoyi.org.cn/)
+* [深圳碳市场数据](http://cerx.cn/dailynewsCN/index_1.htm)
 ## 思路
 + 论文的研究方法是？
 + 参考 [基于区块链的碳排放交易仿真研究](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202001&filename=1019928102.nh&v=MDA5NTVrVzd6TlZGMjZGN3E2RnRETXJaRWJQSVI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUjdxZll1WnBGeXY=)
